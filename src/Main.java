@@ -6,6 +6,8 @@ public class Main {
 		}
 		for (int j =1;j<=100;j++) {
 			System.out.println(j);
+			System.out.println(j+1);
+			System.out.println("Tushar");
 		}
 	}
 }
