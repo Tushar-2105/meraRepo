@@ -5,6 +5,7 @@ public class Tush1to100 {
 		// TODO Auto-generated method stub
 		for (int i=1;i<=100;i++) {
 			System.out.println(i);
+			System.out.println(i+1);
 		}
 	}
 
